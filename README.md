@@ -1,5 +1,5 @@
 # Introduction
-This project is a VR application with a focus on music and interaction. The following is an overview of the key script components and their roles within the project.
+The Maida-Vale VR Studio project is the server-side of a comprehensive VR music application, designed to enhance band experiences in a virtual reality setting. This server component manages critical functionalities like scene management, avatar interactions, and music instrument control. The following overview details the key script components of the server-side and their roles within the overall VR project.
 
 # Script Summaries
 
